@@ -1,2 +1,2 @@
 # Head.First.HTML.and.CSS
-Exercicios do Livro "Head First HTML and CSS", da editora Oreilly
+Exercicios do Livro "Head First HTML with CSS and XHTML", da editora Oreilly
